@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid red;
+}
+
+.header {
+  font-size: 5ch;
+}
+
+.grid-border {
+  max-width: auto;
+  max-height: 100vh;
+  border-right: 2px solid green;
+}
